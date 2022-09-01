@@ -1,0 +1,13 @@
+[
+  {
+    "ID":             "3ad9240c-2479-11ed-ac33-acde48001122",
+    "FirstName":      "shanice",
+    "LastName":       "jackson",
+    "Nickname":       "shan",
+    "HashedPassword": "$2a$10$lPtB5DAxNhBPbcRjQPl9dOSCogbZNtIadqeaTc3OjhwQSfy7QNknK",
+    "Email":          "s_j@gmail.com",
+    "Country":        "IE",
+    "CreatedAt":      "$currentTime",
+    "UpdatedAt":      "$currentTime"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "ID":             "1ad9240c-2479-11ed-ac33-acde48001122",
+    "FirstName":      "john",
+    "LastName":       "smith",
+    "Nickname":       "smithy",
+    "HashedPassword": "$2a$10$5U.360HxxYKyULoXVRao8uKbM9t9vtI1cyZ4glIx8qZ1tXkeXSTMe",
+    "Email":          "j_s@gmail.com",
+    "Country":        "UK",
+    "CreatedAt":      "$currentTime",
+    "UpdatedAt":      "$currentTime"
+  },
+  {
+    "ID":             "3ad9240c-2479-11ed-ac33-acde48001122",
+    "FirstName":      "shanice",
+    "LastName":       "jackson",
+    "Nickname":       "shan",
+    "HashedPassword": "$2a$10$lPtB5DAxNhBPbcRjQPl9dOSCogbZNtIadqeaTc3OjhwQSfy7QNknK",
+    "Email":          "s_j@gmail.com",
+    "Country":        "IE",
+    "CreatedAt":      "$currentTime",
+    "UpdatedAt":      "$currentTime"
+  }
+]
